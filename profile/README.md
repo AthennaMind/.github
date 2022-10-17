@@ -2,4 +2,4 @@
 
 #### Your knowledge base
 
-![st3ga](../assets/img/st3ga-logo.png)
+![st3ga](https://github.com/st3ga/.github/blob/main/assets/img/st3ga-logo.png?raw=true)
