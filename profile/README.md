@@ -1,3 +1,3 @@
-# [st3ga.com](https://st3ga.com) 
+# AthennaMind
 
-
+Welcome to text brain of the internet GitHub. 
