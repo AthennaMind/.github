@@ -1,10 +1,14 @@
 <div align="center">
-    <img src="./img/athennamind.png"> </img>
+    <img src="https://github.com/AthennaMind/.github/blob/main/profile/img/athennamind.png?raw=true"> </img>
 </div>
 
 <br />
 
-**We are currently working on the most advanced media analysis platform for the Balkan region of Europe. Our work is in progress and still in the early development phase, so it remains close for now. During that we are also developing a series of open-source tools that we use internally. Don't hesitate to contact us if you have any questions or want to collaborate.**
+**A set of people, currently working on media analysis platform for the Balkan region of Europe. We are in the thick of the early development stage, so keeping the details under our hats for a bit longer.**
+
+<br />
+
+**Check out our open-source projects and feel free to contribute.**
 
 <br />
 
